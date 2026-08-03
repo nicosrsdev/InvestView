@@ -1,4 +1,4 @@
-# InvestView (Alpha)
+﻿# InvestView (Alpha)
 
 Welcome to the official repository for the **Investment View** application, available for both Android and Windows platforms.
 
@@ -6,7 +6,7 @@ This application provides users with a comprehensive suite of tools designed to 
 
 > **Latest release:** [Android & Windows v0.33](https://github.com/nicosrsdev/InvestmentView/releases/latest)  
 
-> **Latest nightly build:** [Android & Windows v0.34](https://github.com/nicosrsdev/InvestView/releases#release-v0.34-nightly)  
+> **Latest nightly build:** [Android & Windows v0.34](https://github.com/nicosrsdev/InvestView/releases/tag/v0.34-nightly)  
 
 > **Image Gallery:** [InvestmentView/Screenshots](https://nicosrsdev.github.io/InvestmentView/)
 
@@ -186,3 +186,4 @@ Please note that the Application does require an active internet connection to r
 The user is solely responsible for safeguarding, backing up, and maintaining their personal data on their local machine.
 
 By continuing to use the InvestView application, you acknowledge that you have read, understood, and agreed to this disclaimer, and you release the developer from any and all liability regarding your financial decisions.
+
