@@ -6,6 +6,8 @@ This application provides users with a comprehensive suite of tools designed to 
 
 > **Latest release:** [Android & Windows v0.33](https://github.com/nicosrsdev/InvestmentView/releases/latest)  
 
+> **Latest nightly build:** [Android & Windows v0.34](https://github.com/nicosrsdev/InvestView/releases#release-v0.34-nightly)  
+
 > **Image Gallery:** [InvestmentView/Screenshots](https://nicosrsdev.github.io/InvestmentView/)
 
 
